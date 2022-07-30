@@ -1,4 +1,4 @@
-# zynq_bajie_board
+# Zynq Bajie Board
 This github forks the developments of Zynq MPSoC-7000 in a XCZ7010 Bajie Board development board, made by QMTECH.
 All examples provided by the manufacter are here extracted, builded and provided in a repo organization that any user owner
 of this board can clone, contribute and develop new examples.
